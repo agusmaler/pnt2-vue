@@ -1,0 +1,27 @@
+/* app global css */
+*, *:before, *:after {
+    box-sizing: inherit;
+  } 
+  html {
+    box-sizing: border-box;
+    height: 100%;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../assets/14568-brick-wall-and-wood-floor-1920x1080-abstract-wallpaper.jpg");
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    width: 100vh;
+    height: 100vh;
+}
+
+.q-pa-xl{
+    width: 120rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
