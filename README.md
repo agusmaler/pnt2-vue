@@ -1,4 +1,4 @@
-# Quasar App (pacientes-app)
+# Quasar App (TURNOS-app)
 
 A Quasar Framework app
 
